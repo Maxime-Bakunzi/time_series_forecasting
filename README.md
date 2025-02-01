@@ -33,3 +33,4 @@ This project aims to forecast air quality using time series data. The notebook i
 To run this project, ensure you have the following dependencies installed:
 ```bash
 pip install tensorflow matplotlib pandas tabulate
+
